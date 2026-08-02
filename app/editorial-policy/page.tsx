@@ -42,7 +42,7 @@ export default function EditorialPolicyPage() {
             <ul>
               <li>We provide balanced information without promoting specific financial products</li>
               <li>We disclose affiliate relationships where applicable</li>
-              <liWe do not guarantee returns or make profit claims</li>
+              <li>We do not guarantee returns or make profit claims</li>
               <li>We present multiple perspectives on complex financial topics</li>
             </ul>
           </section>
@@ -52,7 +52,7 @@ export default function EditorialPolicyPage() {
             <ul>
               <li>We explain financial concepts in simple, accessible language</li>
               <li>We provide examples and practical applications</li>
-              <liWe define technical terms when first used</li>
+              <li>We define technical terms when first used</li>
               <li>We structure content with clear headings and logical flow</li>
             </ul>
           </section>

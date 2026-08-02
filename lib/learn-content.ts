@@ -166,3 +166,4 @@ export const learnArticles: LearnArticle[] = [
 export function getArticle(slug: string): LearnArticle | undefined {
   return learnArticles.find((a) => a.slug === slug)
 }
+export const learnContent = learnArticles
